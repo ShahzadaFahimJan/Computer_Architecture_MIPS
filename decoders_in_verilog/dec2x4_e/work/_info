@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2022.2 2022.04, Apr 26 2022
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/dec_3_x_8
+vdecoder2x4
+Z0 !s110 1700290928
+!i10b 1
+!s100 CS3OiE8YNHmaI1Ync?6hc3
+Ij^di52Le?hQRYHT]n4UA>2
+Z1 dH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/dec2x4_e
+w1700284525
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/dec2x4_e/dec.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/dec2x4_e/dec.v
+!i122 8
+L0 1 13
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OW;L;2022.2;75
+r1
+!s85 0
+31
+Z4 !s108 1700290928.000000
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/dec2x4_e/dec.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/dec2x4_e/dec.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -O0
+Z6 tCvgOpt 0
+vstim_decoder2x4
+R0
+!i10b 1
+!s100 XX]RPZFOfaIeWBSS9oghf2
+IY01]e3K=kCTg;Eo>nJAE41
+R1
+w1700284809
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/dec2x4_e/dec_tb.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/dec2x4_e/dec_tb.v
+!i122 9
+L0 2 19
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/dec2x4_e/dec_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/dec2x4_e/dec_tb.v|
+!s101 -O0
+!i113 1
+R5
+R6

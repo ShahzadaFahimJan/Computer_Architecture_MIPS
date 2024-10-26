@@ -1,0 +1,28 @@
+
+module STIM_MUX4X1();
+reg [3:0] A;
+reg [3:0] B;
+reg [1:0] select;
+wire [3:0] out;
+multiplexer mux(A,B,select,out);
+initial
+begin
+$display("A B select OUT");
+A=4'b0000;
+B=4'b0101;
+select =2'b00;
+#10 $display("%b %b %b %b",A,B,select,out);
+A=4'b0000;
+B=4'b0101;
+select =2'b01;
+#10 $display("%b %b %b %b",A,B,select,out);
+A=4'b0110;
+B=4'b0101;
+select =2'b10;
+#10 $display("%b %b %b %b",A,B,select,out);
+A=4'b1010;
+B=4'b0101;
+select =2'b11;
+#10 $display("%b %b %b %b",A,B,select,out);
+end
+endmodule

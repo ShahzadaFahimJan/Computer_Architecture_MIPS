@@ -1,0 +1,29 @@
+{H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/lecture_slide/buffer.v} {1 {vlog -work work -stats=none {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/lecture_slide/buffer.v}
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module buffer
+
+Top level modules:
+	buffer
+
+} {} {}} {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/lecture_slide/or_testbench.v} {1 {vlog -work work -stats=none {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/lecture_slide/or_testbench.v}
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module stim_or
+
+Top level modules:
+	stim_or
+
+} {} {}} {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/lecture_slide/or.v} {1 {vlog -work work -stats=none {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/lecture_slide/or.v}
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module OR
+
+Top level modules:
+	OR
+
+} {} {}} {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/lecture_slide/buffer_testbench.v} {1 {vlog -work work -stats=none {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/lecture_slide/buffer_testbench.v}
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module stim_buffer
+
+Top level modules:
+	stim_buffer
+
+} {} {}}

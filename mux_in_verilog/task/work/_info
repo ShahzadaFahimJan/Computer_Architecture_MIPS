@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11f vlog 2022.2 2022.04, Apr 26 2022
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/3x8_u_2x8
+vmultiplexer
+Z0 !s110 1700386298
+!i10b 1
+!s100 ?QQTM3Ug:[>?CINj3G@gN1
+IWE54cBhd@5DV9EgZoT8:V1
+Z1 dH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/task
+w1700385966
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/task/mux.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/task/mux.v
+!i122 5
+L0 1 16
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OW;L;2022.2;75
+r1
+!s85 0
+31
+Z4 !s108 1700386298.000000
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/task/mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/task/mux.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -O0
+Z6 tCvgOpt 0
+vSTIM_MUX4X1
+R0
+!i10b 1
+!s100 RXGZ6<=ge=4OnzIRjo:2`1
+I1znW7J>ZJ`39PigIi;UGV3
+R1
+w1700386295
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/task/mux_tb.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/task/mux_tb.v
+!i122 6
+L0 2 27
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/task/mux_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/task/mux_tb.v|
+!s101 -O0
+!i113 1
+R5
+R6
+n@s@t@i@m_@m@u@x4@x1

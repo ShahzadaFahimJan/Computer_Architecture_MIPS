@@ -1,0 +1,178 @@
+m255
+K4
+z2
+!s11f vlog 2022.2 2022.04, Apr 26 2022
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dH:/liberosoftware/ModelSimPro/win32acoem
+vFA
+Z0 !s110 1699101903
+!i10b 1
+!s100 koU4DG_kREjOhUTlQ=Ycj0
+Ie1Y>P`Wc]h9XP87iXh2T>2
+Z1 dH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6
+w1699091994
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/full_adder.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/full_adder.v
+!i122 62
+L0 2 11
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OW;L;2022.2;75
+r1
+!s85 0
+31
+Z4 !s108 1699101903.000000
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/full_adder.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -O0
+Z6 tCvgOpt 0
+n@f@a
+vHA
+Z7 !s110 1699102255
+!i10b 1
+!s100 6D=`5N>R2PYMLNcA]laG02
+IjBh3^ZbM2=gnR6Y<o<PO@2
+R1
+w1699092410
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/half_adder.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/half_adder.v
+!i122 69
+L0 1 8
+R2
+R3
+r1
+!s85 0
+31
+Z8 !s108 1699102255.000000
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/half_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/half_adder.v|
+!s101 -O0
+!i113 1
+R5
+R6
+n@h@a
+vRCA
+Z9 !s110 1699101904
+!i10b 1
+!s100 @S?bSec@cO29dHAi>^P?=2
+I_>6o24YeHA]cA=God931W1
+R1
+w1699093014
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/Ripple_carry_adder.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/Ripple_carry_adder.v
+!i122 66
+L0 2 16
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/Ripple_carry_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/Ripple_carry_adder.v|
+!s101 -O0
+!i113 1
+R5
+R6
+n@r@c@a
+vtest_FA
+R0
+!i10b 1
+!s100 Hbb0SEE864Vk^[X?azASi2
+I:>fW7J6>3J>QcVzR>L?M>1
+R1
+w1699092003
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/full_adder_testbench.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/full_adder_testbench.v
+!i122 63
+L0 2 32
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/full_adder_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/full_adder_testbench.v|
+!s101 -O0
+!i113 1
+R5
+R6
+ntest_@f@a
+vtest_HALF
+R7
+!i10b 1
+!s100 z@]:bB_fnJec_ZdB[hLT50
+IChJb@]dfZFF]bH545a1Ug1
+R1
+w1699092429
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/half_adder_testbench.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/half_adder_testbench.v
+!i122 70
+L0 2 29
+R2
+R3
+r1
+!s85 0
+31
+R8
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/half_adder_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/half_adder_testbench.v|
+!s101 -O0
+!i113 1
+R5
+R6
+ntest_@h@a@l@f
+vtest_RCA
+R9
+!i10b 1
+!s100 ZSZieZ<Kn]?9:aVeXc>Dn1
+ImXG5aMj5V^6b^RVNO@5W22
+R1
+w1699093043
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/Ripple_Carry_Adder_testbench.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/Ripple_Carry_Adder_testbench.v
+!i122 67
+L0 2 24
+R2
+R3
+r1
+!s85 0
+31
+Z10 !s108 1699101904.000000
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/Ripple_Carry_Adder_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/Ripple_Carry_Adder_testbench.v|
+!s101 -O0
+!i113 1
+R5
+R6
+ntest_@r@c@a
+vtop
+R9
+!i10b 1
+!s100 ?8l>omW81cMLC4jnBY;=_3
+IGJGLTF7dKPQ@hZGEZImz@1
+R1
+w1699093435
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/top_module.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/top_module.v
+!i122 68
+L0 1 9
+R2
+R3
+r1
+!s85 0
+31
+R10
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/top_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/top_module.v|
+!s101 -O0
+!i113 1
+R5
+R6

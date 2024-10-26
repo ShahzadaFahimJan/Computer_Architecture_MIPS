@@ -1,0 +1,29 @@
+{H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task2/half_adder_testbench.v} {1 {vlog -work work -stats=none {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task2/half_adder_testbench.v}
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module test_HALF
+
+Top level modules:
+	test_HALF
+
+} {} {}} {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task2/full_adder_testbench.v} {1 {vlog -work work -stats=none {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task2/full_adder_testbench.v}
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module test_FA
+
+Top level modules:
+	test_FA
+
+} {} {}} {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task2/half_adder.v} {1 {vlog -work work -stats=none {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task2/half_adder.v}
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module HA
+
+Top level modules:
+	HA
+
+} {} {}} {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task2/full_adder.v} {1 {vlog -work work -stats=none {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task2/full_adder.v}
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}}

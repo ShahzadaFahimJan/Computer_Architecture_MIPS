@@ -1,0 +1,16 @@
+# Current time Fri Nov 17 20:46:38 2023
+# ModelSim Microsemi Pro Stack Trace
+# Program = vish
+# Id = "2022.2"
+# Version = "2022.04"
+# Date = "Apr 26 2022"
+# Platform = win32acoem
+
+Exception c0000005 has occurred at address 6e900eee. Traceback:
+# 0    0x6e900eee: 'TkSetFocusWin + 0x29e'
+# 1    0x6e8b4bf0: 'Tk_SetGrid + 0x2190'
+# 2    0x6e8b8872: 'Tk_SetGrid + 0x5e12'
+# 3    0x6e7039f1: 'TclNREvalObjv + 0x3e1'
+StackWalk failed 299
+# End of Stack Trace
+

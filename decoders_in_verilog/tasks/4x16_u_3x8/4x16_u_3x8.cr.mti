@@ -1,0 +1,29 @@
+{H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/4x16_u_3x8/dec3x8.v} {1 {vlog -work work -stats=none {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/4x16_u_3x8/dec3x8.v}
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module decoder3x8
+
+Top level modules:
+	decoder3x8
+
+} {} {}} {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/4x16_u_3x8/dec4x16.v} {1 {vlog -work work -stats=none {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/4x16_u_3x8/dec4x16.v}
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module decoder4x16
+
+Top level modules:
+	decoder4x16
+
+} {} {}} {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/4x16_u_3x8/dec3x8_tb.v} {1 {vlog -work work -stats=none {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/4x16_u_3x8/dec3x8_tb.v}
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module stim_decoder3x8
+
+Top level modules:
+	stim_decoder3x8
+
+} {} {}} {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/4x16_u_3x8/dec4x16_tb.v} {1 {vlog -work work -stats=none {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/4x16_u_3x8/dec4x16_tb.v}
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module stim_decoder4x16
+
+Top level modules:
+	stim_decoder4x16
+
+} {} {}}

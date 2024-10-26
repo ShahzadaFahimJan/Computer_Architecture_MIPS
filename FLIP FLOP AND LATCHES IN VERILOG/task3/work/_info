@@ -1,0 +1,106 @@
+m255
+K4
+z2
+!s11f vlog 2022.2 2022.04, Apr 26 2022
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab9/task2
+vJK_flipflop
+Z0 !s110 1702827047
+!i10b 1
+!s100 65_NI@cP0U:_;<OPYcB251
+INL[Xj<Ym_61b@AXA6iAKo2
+Z1 dH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab9/task3
+w1702819285
+Z2 8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab9/task3/JK_FlipFlop.v
+Z3 FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab9/task3/JK_FlipFlop.v
+!i122 28
+L0 1 27
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OW;L;2022.2;75
+r1
+!s85 0
+31
+Z6 !s108 1702827047.000000
+Z7 !s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab9/task3/JK_FlipFlop.v|
+Z8 !s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab9/task3/JK_FlipFlop.v|
+!s101 -O0
+!i113 1
+Z9 o-work work -O0
+Z10 tCvgOpt 0
+n@j@k_flipflop
+vJK_flipflop_4nand
+Z11 !s110 1702819010
+!i10b 1
+!s100 Ri8WH4DSEBX;NdI_Fg:[`3
+IEkYDKJa7NLf[1HM_=TiJ70
+R1
+w1702819009
+R2
+R3
+!i122 22
+L0 1 13
+R4
+R5
+r1
+!s85 0
+31
+Z12 !s108 1702819010.000000
+R7
+R8
+!s101 -O0
+!i113 1
+R9
+R10
+n@j@k_flipflop_4nand
+vtestbench
+R0
+!i10b 1
+!s100 b@WSTR_@;LLZLGN`MOZic1
+IKbH[jY?N88L?>LOJXT2mg3
+R1
+w1702827046
+Z13 8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab9/task3/JK_FlipFlop_tb.v
+Z14 FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab9/task3/JK_FlipFlop_tb.v
+!i122 29
+L0 1 47
+R4
+R5
+r1
+!s85 0
+31
+R6
+Z15 !s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab9/task3/JK_FlipFlop_tb.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab9/task3/JK_FlipFlop_tb.v|
+!s101 -O0
+!i113 1
+R9
+R10
+vtestbench_JK_flipflop_4nand
+R11
+!i10b 1
+!s100 K:ZSlG?KlNC`k?0M;L?hG1
+I:Onn7GV5<CLKoI2e@cJ4Q2
+R1
+w1702818967
+R13
+R14
+!i122 23
+L0 2 38
+R4
+R5
+r1
+!s85 0
+31
+R12
+R15
+R16
+!s101 -O0
+!i113 1
+R9
+R10
+ntestbench_@j@k_flipflop_4nand

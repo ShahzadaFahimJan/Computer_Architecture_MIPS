@@ -1,0 +1,15 @@
+{H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab9/task1/SR_Latch.v} {1 {vlog -work work -stats=none {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab9/task1/SR_Latch.v}
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module SR_latch
+
+Top level modules:
+	SR_latch
+
+} {} {}} {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab9/task1/SR_Latch_tb.v} {1 {vlog -work work -stats=none {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab9/task1/SR_Latch_tb.v}
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module testbench_SR_latch
+
+Top level modules:
+	testbench_SR_latch
+
+} {} {}}

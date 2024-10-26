@@ -1,0 +1,37 @@
+# Reading pref.tcl
+# do run.do
+# INFO: Simulation library presynth already exists
+# Model Technology ModelSim Microsemi Pro vmap 2022.2 Lib Mapping Utility 2022.04 Apr 26 2022
+# vmap presynth presynth 
+# Modifying modelsim.ini
+# Model Technology ModelSim Microsemi Pro vmap 2022.2 Lib Mapping Utility 2022.04 Apr 26 2022
+# vmap SmartFusion2 H:/liberosoftware/Designer/lib/modelsimpro/precompiled/vlog/SmartFusion2 
+# Modifying modelsim.ini
+# Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+# Start time: 04:43:04 on Nov 04,2023
+# vlog -reportprogress 300 -sv -work presynth H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/hdl/half_adder.v 
+# -- Compiling module HA
+# 
+# Top level modules:
+# 	HA
+# End time: 04:43:04 on Nov 04,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -L SmartFusion2 -L presynth -t 1fs presynth.HA 
+# Start time: 04:43:04 on Nov 04,2023
+# //  ModelSim Microsemi Pro 2022.2 Apr 26 2022
+# //
+# //  Copyright 1991-2022 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim Microsemi Pro and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading sv_std.std
+# Loading presynth.HA
+# End time: 04:43:07 on Nov 04,2023, Elapsed time: 0:00:03
+# Errors: 0, Warnings: 0

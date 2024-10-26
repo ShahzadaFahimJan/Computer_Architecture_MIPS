@@ -1,0 +1,16 @@
+Project Name: adders
+Location: H:\faheeem jan\5TH SEMESTER\COA_LAB_FALL23\lab6\libero\adders
+Description: 
+Preferred HDL Type: Verilog
+
+#-----------------------------------------------------
+                  Device Details
+#-----------------------------------------------------
+
+Part Number    : M2S005-1FG484
+Family         : SmartFusion2
+Die            : M2S005
+Package        : 484 FBGA
+Speed          : -1
+Core Voltage   : 1.2
+Range          : COM

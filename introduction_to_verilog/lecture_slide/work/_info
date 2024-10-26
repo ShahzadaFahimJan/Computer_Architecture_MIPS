@@ -1,0 +1,104 @@
+m255
+K4
+z2
+!s11f vlog 2022.2 2022.04, Apr 26 2022
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task3
+vbuffer
+Z0 !s110 1699418817
+!i10b 1
+!s100 Kfki83_Nf]GY_9d;XmRDj3
+ICdGch;Eb02E5jPi0L?<@;3
+Z1 dH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/lecture_slide
+w1699113376
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/lecture_slide/buffer.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/lecture_slide/buffer.v
+!i122 44
+L0 2 5
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OW;L;2022.2;75
+r1
+!s85 0
+31
+Z4 !s108 1699418817.000000
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/lecture_slide/buffer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/lecture_slide/buffer.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -O0
+Z6 tCvgOpt 0
+vOR
+R0
+!i10b 1
+!s100 IZQ]0m`0X;]HMFDl3]k[H1
+IKfWH7B@;hXT8:fVfFm<`a3
+R1
+w1699113780
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/lecture_slide/or.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/lecture_slide/or.v
+!i122 46
+L0 2 9
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/lecture_slide/or.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/lecture_slide/or.v|
+!s101 -O0
+!i113 1
+R5
+R6
+n@o@r
+vstim_buffer
+R0
+!i10b 1
+!s100 30A^2:WobP3I_7L8aPik>1
+I4`j0^3J94S3AP38_0OITB1
+R1
+w1699113393
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/lecture_slide/buffer_testbench.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/lecture_slide/buffer_testbench.v
+!i122 45
+L0 2 15
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/lecture_slide/buffer_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/lecture_slide/buffer_testbench.v|
+!s101 -O0
+!i113 1
+R5
+R6
+vstim_or
+R0
+!i10b 1
+!s100 ;cc>ROX0Ti=ff61;A6]4k2
+I1ZQ2dU0K0K1`Zo>::V:_A1
+R1
+w1699113810
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/lecture_slide/or_testbench.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/lecture_slide/or_testbench.v
+!i122 47
+L0 2 25
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/lecture_slide/or_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/lecture_slide/or_testbench.v|
+!s101 -O0
+!i113 1
+R5
+R6

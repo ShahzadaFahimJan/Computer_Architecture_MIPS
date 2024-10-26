@@ -1,0 +1,196 @@
+m255
+K4
+z2
+!s11f vlog 2022.2 2022.04, Apr 26 2022
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/simulation
+vFA
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1699100817
+!i10b 1
+!s100 _0>LNj03P]P`=0ECKULRC3
+I<cg9f?@4a<eS^8^bcEM@g3
+S1
+R0
+w1699098371
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/hdl/full_adder.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/hdl/full_adder.v
+!i122 70
+L0 20 11
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OW;L;2022.2;75
+r1
+!s85 0
+31
+Z5 !s108 1699100817.000000
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/hdl/full_adder.v|
+!s90 -reportprogress|300|-sv|-work|presynth|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/hdl/full_adder.v|
+!s101 -O0
+!i113 1
+Z6 o-sv -work presynth -O0
+Z7 tCvgOpt 0
+n@f@a
+vHA
+R1
+R2
+!i10b 1
+!s100 2[doQ9^h1nfRAghB^m]?S2
+IFii2O3Y7QbTikFPCIeFjd2
+S1
+R0
+w1699097669
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/hdl/half_adder.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/hdl/half_adder.v
+!i122 69
+L0 21 8
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/hdl/half_adder.v|
+!s90 -reportprogress|300|-sv|-work|presynth|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/hdl/half_adder.v|
+!s101 -O0
+!i113 1
+R6
+R7
+n@h@a
+vRCA
+R1
+R2
+!i10b 1
+!s100 5KBR=2H=We@fCIkgl4RDa0
+IWT:GGbX912SJ@7>]L844d3
+S1
+R0
+w1699098554
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/hdl/Ripple_Carry_Adder.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/hdl/Ripple_Carry_Adder.v
+!i122 71
+L0 22 16
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/hdl/Ripple_Carry_Adder.v|
+!s90 -reportprogress|300|-sv|-work|presynth|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/hdl/Ripple_Carry_Adder.v|
+!s101 -O0
+!i113 1
+R6
+R7
+n@r@c@a
+vtest_FA
+R1
+!s110 1699100142
+!i10b 1
+!s100 AEY[WT?cBV]:@Gm==nZ<H0
+IKSb0TzbjdD5PCHMnQI`563
+S1
+R0
+w1699098399
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/stimulus/full_adder_testbench.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/stimulus/full_adder_testbench.v
+!i122 53
+L0 31 32
+R3
+R4
+r1
+!s85 0
+31
+!s108 1699100142.000000
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/stimulus/full_adder_testbench.v|
+!s90 -reportprogress|300|+incdir+H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/stimulus|-sv|-work|presynth|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/stimulus/full_adder_testbench.v|
+!s101 -O0
+!i113 1
+R6
+Z8 !s92 {+incdir+H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/stimulus} -sv -work presynth -O0
+R7
+ntest_@f@a
+vtest_HALF
+R1
+!s110 1699100068
+!i10b 1
+!s100 Yk4bEUzicIPJfX5Xf=PP70
+IXjSD9FTSaVM_Nnl?Yi:Sa3
+S1
+R0
+w1699098222
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/stimulus/half_adder_testbench.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/stimulus/half_adder_testbench.v
+!i122 50
+L0 30 29
+R3
+R4
+r1
+!s85 0
+31
+!s108 1699100068.000000
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/stimulus/half_adder_testbench.v|
+!s90 -reportprogress|300|+incdir+H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/stimulus|-sv|-work|presynth|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/stimulus/half_adder_testbench.v|
+!s101 -O0
+!i113 1
+R6
+R8
+R7
+ntest_@h@a@l@f
+vtest_RCA
+R1
+Z9 !s110 1699100818
+!i10b 1
+!s100 IZZO<SHAP:QRLEJ_kODIk1
+IBfaVh<BO@cYMGl5OF:K2z2
+S1
+R0
+w1699100765
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/stimulus/Ripple_Carry_Adder_testbench.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/stimulus/Ripple_Carry_Adder_testbench.v
+!i122 72
+L0 32 24
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/stimulus/Ripple_Carry_Adder_testbench.v|
+!s90 -reportprogress|300|+incdir+H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/stimulus|-sv|-work|presynth|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/stimulus/Ripple_Carry_Adder_testbench.v|
+!s101 -O0
+!i113 1
+R6
+R8
+R7
+ntest_@r@c@a
+vtop
+R1
+R9
+!i10b 1
+!s100 <05BnF`o`7OPWHgjQB=j`0
+IKbNA1U:WXEUAV^DeK0?N=2
+S1
+R0
+w1699099753
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/stimulus/top_module.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/stimulus/top_module.v
+!i122 73
+L0 29 9
+R3
+R4
+r1
+!s85 0
+31
+!s108 1699100818.000000
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/stimulus/top_module.v|
+!s90 -reportprogress|300|+incdir+H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/stimulus|-sv|-work|presynth|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/stimulus/top_module.v|
+!s101 -O0
+!i113 1
+R6
+R8
+R7

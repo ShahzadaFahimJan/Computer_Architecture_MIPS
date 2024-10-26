@@ -1,0 +1,107 @@
+m255
+K4
+z2
+!s11f vlog 2022.2 2022.04, Apr 26 2022
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task1
+vFA
+Z0 !s110 1699109911
+!i10b 1
+!s100 zPc<>5giG9>UKFma3@H]h2
+In3IFM6O:U?G71:f39mkfQ3
+Z1 dH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task2
+w1699109740
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task2/full_adder.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task2/full_adder.v
+!i122 3
+L0 1 11
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OW;L;2022.2;75
+r1
+!s85 0
+31
+Z4 !s108 1699109911.000000
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task2/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task2/full_adder.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -O0
+Z6 tCvgOpt 0
+n@f@a
+vHA
+R0
+!i10b 1
+!s100 m4YVdkDdQjBnAaLUGhFn43
+I;Ie_ZIiG:]<k;>`9kPWfW3
+R1
+w1699103433
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task2/half_adder.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task2/half_adder.v
+!i122 5
+L0 2 8
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task2/half_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task2/half_adder.v|
+!s101 -O0
+!i113 1
+R5
+R6
+n@h@a
+vtest_FA
+R0
+!i10b 1
+!s100 Hbb0SEE864Vk^[X?azASi2
+I[=lL:QEf>Sz?]XZhU8fG<0
+R1
+w1699109767
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task2/full_adder_testbench.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task2/full_adder_testbench.v
+!i122 4
+L0 2 32
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task2/full_adder_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task2/full_adder_testbench.v|
+!s101 -O0
+!i113 1
+R5
+R6
+ntest_@f@a
+vtest_HALF
+R0
+!i10b 1
+!s100 AbeO52N2ImOIIHI0czH>I0
+I26e2nDA4KIX81UBHHj:Wi0
+R1
+w1699109910
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task2/half_adder_testbench.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task2/half_adder_testbench.v
+!i122 6
+L0 1 30
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task2/half_adder_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/task2/half_adder_testbench.v|
+!s101 -O0
+!i113 1
+R5
+R6
+ntest_@h@a@l@f

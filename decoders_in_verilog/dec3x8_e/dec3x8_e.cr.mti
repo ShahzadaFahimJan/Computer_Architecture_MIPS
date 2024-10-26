@@ -1,0 +1,15 @@
+{H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/dec3x8_e/dec.v} {1 {vlog -work work -stats=none {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/dec3x8_e/dec.v}
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module decoder3x8
+
+Top level modules:
+	decoder3x8
+
+} {} {}} {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/dec3x8_e/dec_tb.v} {1 {vlog -work work -stats=none {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/dec3x8_e/dec_tb.v}
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module stim_decoder3x8
+
+Top level modules:
+	stim_decoder3x8
+
+} {} {}}

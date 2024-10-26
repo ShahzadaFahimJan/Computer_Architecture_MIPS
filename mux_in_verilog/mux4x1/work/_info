@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11f vlog 2022.2 2022.04, Apr 26 2022
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/2x1MUX
+vmux21
+Z0 !s110 1700392589
+!i10b 1
+!s100 aeik2LBM3h:Sez6Ff1dg^3
+IQ6_;Te;2im93CIdWPA>JJ3
+Z1 dH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/mux4x1
+w1700392475
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/mux4x1/mux2x1.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/mux4x1/mux2x1.v
+!i122 5
+L0 2 15
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OW;L;2022.2;75
+r1
+!s85 0
+31
+Z4 !s108 1700392589.000000
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/mux4x1/mux2x1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/mux4x1/mux2x1.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -O0
+Z6 tCvgOpt 0
+vmux41
+R0
+!i10b 1
+!s100 MWQUIVooHE0e^Zca_I2>N0
+Ikjl8<3lOMQ^;QUQlLmUaX3
+R1
+w1700392500
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/mux4x1/mux4x1.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/mux4x1/mux4x1.v
+!i122 7
+L0 2 13
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/mux4x1/mux4x1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/mux4x1/mux4x1.v|
+!s101 -O0
+!i113 1
+R5
+R6
+vtest_mux21
+R0
+!i10b 1
+!s100 QGPAgXlbhJAGDAQ6X:5`;3
+I^Zg:GTmk^=6O=2OYO3eKi3
+R1
+w1700392486
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/mux4x1/mux2x1_tb.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/mux4x1/mux2x1_tb.v
+!i122 6
+L0 3 30
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/mux4x1/mux2x1_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/mux4x1/mux2x1_tb.v|
+!s101 -O0
+!i113 1
+R5
+R6
+vtest_mux41
+!s110 1700392590
+!i10b 1
+!s100 55zGRQa;9ije2[=03DX190
+IzOZ;Bmh`1kITj]5KnJYhW1
+R1
+w1700392588
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/mux4x1/mux4x1_tb.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/mux4x1/mux4x1_tb.v
+!i122 8
+L0 1 28
+R2
+R3
+r1
+!s85 0
+31
+!s108 1700392590.000000
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/mux4x1/mux4x1_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/mux4x1/mux4x1_tb.v|
+!s101 -O0
+!i113 1
+R5
+R6

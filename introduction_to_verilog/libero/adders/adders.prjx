@@ -1,0 +1,393 @@
+KEY LIBERO "2023.1"
+KEY CAPTURE "2023.1.0.6"
+KEY DEFAULT_IMPORT_LOC "C:\Actelprj\A3P_Verilog_labs\lab2"
+KEY DEFAULT_OPEN_LOC ""
+KEY ProjectID "0"
+KEY HDLTechnology "VERILOG"
+KEY VERILOGMODE "SYSTEMVERILOG"
+KEY VHDLMODE "VHDL2008"
+KEY SYSTEMVERILOGMFCU "FALSE"
+KEY UseConstraintFlowTechnology "TRUE"
+KEY VendorTechnology_Family "SmartFusion2"
+KEY VendorTechnology_Die "PA4M500"
+KEY VendorTechnology_Package "fg484"
+KEY VendorTechnology_Speed "-1"
+KEY VendorTechnology_DieVoltage "1.2"
+KEY VendorTechnology_PART_RANGE "COM"
+KEY VendorTechnology_DSW_VCCA_VOLTAGE_RAMP_RATE "100_MS"
+KEY VendorTechnology_IO_DEFT_STD "LVCMOS25"
+KEY VendorTechnology_OPCONR ""
+KEY VendorTechnology_PLL_SUPPLY "PLL_SUPPLY_25"
+KEY VendorTechnology_RAD_EXPOSURE ""
+KEY VendorTechnology_RESERVEMIGRATIONPINS "1"
+KEY VendorTechnology_RESTRICTPROBEPINS "1"
+KEY VendorTechnology_RESTRICTSPIPINS "0"
+KEY VendorTechnology_SYSTEM_CONTROLLER_SUSPEND_MODE "0"
+KEY VendorTechnology_TARGETDEVICESFORMIGRATION "PA4M500"
+KEY VendorTechnology_TEMPR "COM"
+KEY VendorTechnology_UNUSED_MSS_IO_RESISTOR_PULL "None"
+KEY VendorTechnology_VCCI_1.2_VOLTR "COM"
+KEY VendorTechnology_VCCI_1.5_VOLTR "COM"
+KEY VendorTechnology_VCCI_1.8_VOLTR "COM"
+KEY VendorTechnology_VCCI_2.5_VOLTR "COM"
+KEY VendorTechnology_VCCI_3.3_VOLTR "COM"
+KEY VendorTechnology_VOLTR "COM"
+KEY ProjectLocation "H:\faheeem jan\5TH SEMESTER\COA_LAB_FALL23\lab6\libero\adders"
+KEY ProjectDescription ""
+KEY UseRootLocationForLinkedFiles "FALSE"
+KEY RootLocationENVForLinkedFiles ""
+KEY RootLocationForLinkedFiles ""
+KEY GlobalIncludePaths ""
+KEY Pa4PeripheralNewSeq "GOOD"
+KEY MemoryMapDrcSeverity "FALSE"
+KEY LossOfDataDRCSeverity "TRUE"
+KEY IdWidthMismatchDRCSeverity "TRUE"
+KEY SimulationType "VERILOG"
+KEY Vendor "Actel"
+KEY ActiveRoot "RCA::work"
+LIST REVISIONS
+VALUE="Impl1",NUM=1
+CURREV=1
+ENDLIST
+LIST GlobalIncludeFileList
+ENDLIST
+LIST FileManager
+VALUE "<project>\hdl\full_adder.v,hdl"
+STATE="utd"
+TIME="1699098371"
+SIZE="836"
+ENDFILE
+VALUE "<project>\hdl\half_adder.v,hdl"
+STATE="utd"
+TIME="1699097669"
+SIZE="745"
+ENDFILE
+VALUE "<project>\hdl\Ripple_Carry_Adder.v,hdl"
+STATE="utd"
+TIME="1699098554"
+SIZE="1000"
+ENDFILE
+VALUE "<project>\simulation\run.do,do"
+STATE="utd"
+TIME="1699097901"
+SIZE="654"
+ENDFILE
+VALUE "<project>\simulation\subsystem.bfm,sim"
+STATE="utd"
+TIME="1699097798"
+SIZE="233"
+ENDFILE
+VALUE "<project>\simulation\testbench_presynth_simulation.log,log"
+STATE="utd"
+TIME="1699097911"
+SIZE="33"
+ENDFILE
+VALUE "<project>\simulation\test_FA_presynth_simulation.log,log"
+STATE="utd"
+TIME="1699098431"
+SIZE="2444"
+ENDFILE
+VALUE "<project>\simulation\test_HALF_presynth_simulation.log,log"
+STATE="utd"
+TIME="1699098251"
+SIZE="2055"
+ENDFILE
+VALUE "<project>\simulation\test_RCA_presynth_simulation.log,log"
+STATE="utd"
+TIME="1699098882"
+SIZE="2860"
+ENDFILE
+VALUE "<project>\simulation\top_presynth_simulation.log,log"
+STATE="utd"
+TIME="1699099771"
+SIZE="20"
+ENDFILE
+VALUE "<project>\stimulus\full_adder_testbench.v,tb_hdl"
+STATE="utd"
+TIME="1699098399"
+SIZE="1701"
+ENDFILE
+VALUE "<project>\stimulus\half_adder_testbench.v,tb_hdl"
+STATE="utd"
+TIME="1699098222"
+SIZE="1739"
+ENDFILE
+VALUE "<project>\stimulus\Ripple_Carry_Adder_testbench.v,tb_hdl"
+STATE="utd"
+TIME="1699100765"
+SIZE="1416"
+ENDFILE
+VALUE "<project>\stimulus\top_module.v,tb_hdl"
+STATE="utd"
+TIME="1699099753"
+SIZE="1181"
+ENDFILE
+ENDLIST
+LIST UsedFile
+ENDLIST
+LIST NewModulesInfo
+LIST "FA::work"
+FILE "<project>\hdl\full_adder.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\full_adder_testbench.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+LIST "HA::work"
+FILE "<project>\hdl\half_adder.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\half_adder_testbench.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+LIST "RCA::work"
+FILE "<project>\hdl\Ripple_Carry_Adder.v,hdl"
+LIST AssociatedStimulus
+VALUE "<project>\stimulus\Ripple_Carry_Adder_testbench.v,tb_hdl"
+VALUE "<project>\stimulus\top_module.v,tb_hdl"
+ENDLIST
+LIST ProjectState5.1
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+ENDLIST
+LIST AssociatedStimulus
+LIST RCA
+VALUE "<project>\stimulus\Ripple_Carry_Adder_testbench.v,tb_hdl"
+VALUE "<project>\stimulus\top_module.v,tb_hdl"
+ENDLIST
+LIST FA
+VALUE "<project>\stimulus\full_adder_testbench.v,tb_hdl"
+ENDLIST
+LIST HA
+VALUE "<project>\stimulus\half_adder_testbench.v,tb_hdl"
+ENDLIST
+ENDLIST
+LIST Other_Association
+ENDLIST
+LIST SimulationOptions
+UseAutomaticDoFile=true
+IncludeWaveDo=false
+Type=max
+RunTime=1000ns
+Resolution=1fs
+VsimOpt=
+EntityName=top
+TopInstanceName=<top>_0
+DoFileName=
+DoFileName2=wave.do
+DoFileParams=
+DisplayDUTWave=false
+LogAllSignals=false
+DisablePulseFiltering=false
+DumpVCD=false
+VCDFileName=power.vcd
+VHDL2008=false
+Verilog2001=false
+SystemVerilog=false
+TimeUnit=1
+TimeUnitBase=ns
+Precision=100
+PrecisionBase=ps
+ENDLIST
+LIST ModelSimLibPath
+UseCustomPath=FALSE
+LibraryPath=
+ENDLIST
+LIST GlobalFlowOptions
+GenerateHDLAfterSynthesis=FALSE
+GenerateHDLAfterPhySynthesis=FALSE
+RunDRCAfterSynthesis=FALSE
+AutoCheckConstraints=TRUE
+UpdateModelSimIni=TRUE
+NoIOMode=FALSE
+PeriInitStandalone=FALSE
+OnDemandBuildDH=TRUE
+EnableViewDraw=FALSE
+UpdateViewDrawIni=TRUE
+GenerateHDLFromSchematic=TRUE
+VmNetlistFlowOn=TRUE
+EnableDesignSeparationOn=FALSE
+EnableSETMitigationOn=FALSE
+DisplayFanoutLimit=10
+AbortFlowOnPDCErrorsOn=TRUE
+AbortFlowOnSDCErrorsOn=TRUE
+AbortFlowOn3.3V_IO_ON=FALSE
+InstantiateInSmartDesign=TRUE
+FlashProInputFile=pdb
+SmartGenCompileReport=T
+ENDLIST
+LIST PhySynthesisOptions
+ENDLIST
+LIST Profiles
+NAME="SoftConsole"
+FUNCTION="SoftwareIDE"
+TOOL="SoftConsole"
+LOCATION="eclipse.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="Synplify Pro ME"
+FUNCTION="Synthesis"
+TOOL="Synplify Pro ME"
+LOCATION="H:\liberosoftware\SynplifyPro\bin\synplify_pro.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="Modelsim ME"
+FUNCTION="Simulation"
+TOOL="ModelSim"
+LOCATION="H:\liberosoftware\ModelSimPro\win32acoem\modelsim.exe"
+PARAM=" -l top_presynth_simulation.log "
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="Identify Debugger"
+FUNCTION="IdentifyDebugger"
+TOOL="Identify Debugger"
+LOCATION="H:\liberosoftware\Identify\bin\identify_debugger.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+ENDLIST
+LIST ProjectState5.1
+LIST "FA::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "HA::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+LIST "RCA::work"
+LIST Impl1
+ideSTIMULUS=StateSuccess
+LIST FlowOptions
+UsePhySynth=FALSE
+UseSynth=TRUE
+UseFhbAutoInst=FALSE
+ENDLIST
+Used_File_List
+ENDUsed_File_List
+ENDLIST
+ENDLIST
+ENDLIST
+LIST ExcludePackageForSimulation
+ENDLIST
+LIST ExcludePackageForSynthesis
+ENDLIST
+LIST IncludeModuleForSimulation
+ENDLIST
+LIST CDBOrder
+ENDLIST
+LIST UserCustomizedFileList
+ENDLIST
+LIST OpenedFileList
+ORIENTATION;HORIZONTAL
+HDL;stimulus\top_module.v;0
+HDL;stimulus\Ripple_Carry_Adder_testbench.v;0
+HDL;stimulus\half_adder_testbench.v;0
+HDL;stimulus\full_adder_testbench.v;0
+HDL;hdl\full_adder.v;0
+HDL;hdl\Ripple_Carry_Adder.v;0
+HDL;hdl\half_adder.v;0
+Reports;Reports;0
+ReportsCurrentItem;Project Summary:adders.log
+StartPage;StartPage;0
+ACTIVEVIEW;stimulus\top_module.v
+ENDLIST
+LIST ModuleSubBlockList
+LIST "FA::work","hdl\full_adder.v","FALSE","FALSE"
+SUBBLOCK "HA::work","hdl\half_adder.v","FALSE","FALSE"
+ENDLIST
+LIST "HA::work","hdl\half_adder.v","FALSE","FALSE"
+ENDLIST
+LIST "RCA::work","hdl\Ripple_Carry_Adder.v","FALSE","FALSE"
+SUBBLOCK "FA::work","hdl\full_adder.v","FALSE","FALSE"
+ENDLIST
+LIST "test_FA::work","stimulus\full_adder_testbench.v","FALSE","TRUE"
+SUBBLOCK "FA::work","hdl\full_adder.v","FALSE","FALSE"
+ENDLIST
+LIST "test_HALF::work","stimulus\half_adder_testbench.v","FALSE","TRUE"
+SUBBLOCK "HA::work","hdl\half_adder.v","FALSE","FALSE"
+ENDLIST
+LIST "test_RCA::work","stimulus\Ripple_Carry_Adder_testbench.v","FALSE","TRUE"
+ENDLIST
+LIST "top::work","stimulus\top_module.v","FALSE","TRUE"
+SUBBLOCK "RCA::work","hdl\Ripple_Carry_Adder.v","FALSE","FALSE"
+SUBBLOCK "test_RCA::work","stimulus\Ripple_Carry_Adder_testbench.v","FALSE","TRUE"
+ENDLIST
+ENDLIST
+LIST ActiveTestBenchList
+LIST "RCA::work"
+ACTIVETESTBENCH "top::work","stimulus\top_module.v","FALSE"
+ENDLIST
+LIST "FA::work"
+ACTIVETESTBENCH "test_FA::work","stimulus\full_adder_testbench.v","FALSE"
+ENDLIST
+LIST "HA::work"
+ACTIVETESTBENCH "test_HALF::work","stimulus\half_adder_testbench.v","FALSE"
+ENDLIST
+ENDLIST
+LIST IOTabList
+ENDLIST
+LIST FPTabList
+ENDLIST
+LIST TimingTabList
+ENDLIST
+LIST FDCTabList
+ENDLIST

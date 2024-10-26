@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11f vlog 2022.2 2022.04, Apr 26 2022
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/dec3x8_e
+vdecoder2x4
+Z0 !s110 1700291076
+!i10b 1
+!s100 CS3OiE8YNHmaI1Ync?6hc3
+I4fFlHcGnfP8[@>bHXLlgQ0
+Z1 dH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/3x8_u_2x8
+w1700287281
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/3x8_u_2x8/dec2x4.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/3x8_u_2x8/dec2x4.v
+!i122 24
+L0 1 13
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OW;L;2022.2;75
+r1
+!s85 0
+31
+Z4 !s108 1700291076.000000
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/3x8_u_2x8/dec2x4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/3x8_u_2x8/dec2x4.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -O0
+Z6 tCvgOpt 0
+vdecoder3x8
+R0
+!i10b 1
+!s100 JHji0KgT[j<0FHBnnVgFl0
+IfQ6IU7_IM:c<g6SRL7E<^1
+R1
+w1700287964
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/3x8_u_2x8/dec3x8.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/3x8_u_2x8/dec3x8.v
+!i122 25
+L0 1 8
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/3x8_u_2x8/dec3x8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/3x8_u_2x8/dec3x8.v|
+!s101 -O0
+!i113 1
+R5
+R6
+vstim_decoder2x4
+Z7 !s110 1700291077
+!i10b 1
+!s100 XX]RPZFOfaIeWBSS9oghf2
+I>hLO7l6bD4Xj`fCSFiWT21
+R1
+w1700287292
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/3x8_u_2x8/dec2x4_tb.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/3x8_u_2x8/dec2x4_tb.v
+!i122 26
+L0 2 19
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/3x8_u_2x8/dec2x4_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/3x8_u_2x8/dec2x4_tb.v|
+!s101 -O0
+!i113 1
+R5
+R6
+vstim_decoder3x8
+R7
+!i10b 1
+!s100 0CH1EA:P<hP>`ZOAJWcH;1
+ImBn1MPj=3H;JjUY?5>?HJ1
+R1
+w1700288121
+8H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/3x8_u_2x8/dec3x8_tb.v
+FH:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/3x8_u_2x8/dec3x8_tb.v
+!i122 27
+L0 2 29
+R2
+R3
+r1
+!s85 0
+31
+!s108 1700291077.000000
+!s107 H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/3x8_u_2x8/dec3x8_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab7/tasks/3x8_u_2x8/dec3x8_tb.v|
+!s101 -O0
+!i113 1
+R5
+R6

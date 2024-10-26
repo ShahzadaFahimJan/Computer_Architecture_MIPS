@@ -1,0 +1,15 @@
+{H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab9/task3/JK_FlipFlop_tb.v} {1 {vlog -work work -stats=none {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab9/task3/JK_FlipFlop_tb.v}
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab9/task3/JK_FlipFlop.v} {1 {vlog -work work -stats=none {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab9/task3/JK_FlipFlop.v}
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module JK_flipflop
+
+Top level modules:
+	JK_flipflop
+
+} {} {}}

@@ -1,0 +1,15 @@
+{H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/task/mux.v} {1 {vlog -work work -stats=none {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/task/mux_tb.v}
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module test_mux21
+
+Top level modules:
+	test_mux21
+
+} {} {}} {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/task/mux_tb.v} {1 {vlog -work work -stats=none {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab8/task/mux_tb.v}
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module test_mux21
+
+Top level modules:
+	test_mux21
+
+} {} {}}

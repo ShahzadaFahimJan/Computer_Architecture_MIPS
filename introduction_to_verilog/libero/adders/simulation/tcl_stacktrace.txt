@@ -1,0 +1,38 @@
+Sat Nov 04 05:18:57 PDT 2023
+Trace back: can't read "tbX(tbf25)": no such element in array
+    while executing
+"lappend orderx($tbX($tb)) $tb"
+    (object "::.dockbar" method "::mtiwidgets::Dockbar::redoPack" body line 34)
+    invoked from within
+"redoPack again"
+    ("eval" body line 1)
+    invoked from within
+"eval $args"
+    (object "::.dockbar" method "::mtiwidgets::Dockbar::_delayedEval" body line 3)
+    invoked from within
+"::.dockbar _delayedEval redoPack again"
+    (in namespace inscope "::mtiwidgets::Dockbar" script line 1)
+    invoked from within
+"namespace inscope ::mtiwidgets::Dockbar ::.dockbar _delayedEval redoPack again"
+    ("after" script)
+  <2:H:/liberosoftware/ModelSimPro/win32acoem/tk8.6/bgerror.tcl:106: ::tkerror {can't read "tbX(tbf25)": no such element in array}
+  <1:eval:1: ::tk::dialog::error::bgerror {can't read "tbX(tbf25)": no such element in array}
+Sat Nov 04 05:29:05 PDT 2023
+Trace back: can't read "tbX(tbf25)": no such element in array
+    while executing
+"lappend orderx($tbX($tb)) $tb"
+    (object "::.dockbar" method "::mtiwidgets::Dockbar::redoPack" body line 34)
+    invoked from within
+"redoPack again"
+    ("eval" body line 1)
+    invoked from within
+"eval $args"
+    (object "::.dockbar" method "::mtiwidgets::Dockbar::_delayedEval" body line 3)
+    invoked from within
+"::.dockbar _delayedEval redoPack again"
+    (in namespace inscope "::mtiwidgets::Dockbar" script line 1)
+    invoked from within
+"namespace inscope ::mtiwidgets::Dockbar ::.dockbar _delayedEval redoPack again"
+    ("after" script)
+  <2:H:/liberosoftware/ModelSimPro/win32acoem/tk8.6/bgerror.tcl:106: ::tkerror {can't read "tbX(tbf25)": no such element in array}
+  <1:eval:1: ::tk::dialog::error::bgerror {can't read "tbX(tbf25)": no such element in array}

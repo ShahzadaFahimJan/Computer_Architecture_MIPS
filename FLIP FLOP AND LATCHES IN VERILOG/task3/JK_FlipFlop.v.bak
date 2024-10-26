@@ -1,0 +1,13 @@
+module JK_flipflop_4nand(input J, input K, output reg Q, output reg Q_BAR);
+
+    reg nand1_out, nand2_out;
+
+   
+    assign nand1_out = ~(J & Q_BAR); 
+
+   
+    assign nand2_out = ~(K & Q);
+
+    assign Q = ~(nand1_out & Q_BAR );
+  assign Q_BAR = ~(nand2_out & Q); 
+endmodule

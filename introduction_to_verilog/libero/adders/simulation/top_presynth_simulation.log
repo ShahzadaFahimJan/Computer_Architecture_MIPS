@@ -1,0 +1,98 @@
+# Reading pref.tcl
+# do run.do
+# INFO: Simulation library presynth already exists
+# Model Technology ModelSim Microsemi Pro vmap 2022.2 Lib Mapping Utility 2022.04 Apr 26 2022
+# vmap presynth presynth 
+# Modifying modelsim.ini
+# Model Technology ModelSim Microsemi Pro vmap 2022.2 Lib Mapping Utility 2022.04 Apr 26 2022
+# vmap SmartFusion2 H:/liberosoftware/Designer/lib/modelsimpro/precompiled/vlog/SmartFusion2 
+# Modifying modelsim.ini
+# Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+# Start time: 05:26:57 on Nov 04,2023
+# vlog -reportprogress 300 -sv -work presynth H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/hdl/half_adder.v 
+# -- Compiling module HA
+# 
+# Top level modules:
+# 	HA
+# End time: 05:26:57 on Nov 04,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+# Start time: 05:26:57 on Nov 04,2023
+# vlog -reportprogress 300 -sv -work presynth H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/hdl/full_adder.v 
+# -- Compiling module FA
+# 
+# Top level modules:
+# 	FA
+# End time: 05:26:57 on Nov 04,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+# Start time: 05:26:57 on Nov 04,2023
+# vlog -reportprogress 300 -sv -work presynth H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/hdl/Ripple_Carry_Adder.v 
+# -- Compiling module RCA
+# 
+# Top level modules:
+# 	RCA
+# End time: 05:26:57 on Nov 04,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+# Start time: 05:26:57 on Nov 04,2023
+# vlog -reportprogress 300 "+incdir+H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/stimulus" -sv -work presynth H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/stimulus/Ripple_Carry_Adder_testbench.v 
+# -- Compiling module test_RCA
+# 
+# Top level modules:
+# 	test_RCA
+# End time: 05:26:58 on Nov 04,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+# Start time: 05:26:58 on Nov 04,2023
+# vlog -reportprogress 300 "+incdir+H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/stimulus" -sv -work presynth H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab6/libero/adders/stimulus/top_module.v 
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 05:26:58 on Nov 04,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -L SmartFusion2 -L presynth -t 1fs presynth.top 
+# Start time: 05:26:58 on Nov 04,2023
+# //  ModelSim Microsemi Pro 2022.2 Apr 26 2022
+# //
+# //  Copyright 1991-2022 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim Microsemi Pro and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading sv_std.std
+# Loading presynth.top
+# Loading presynth.RCA
+# Loading presynth.FA
+# Loading presynth.HA
+# Loading presynth.test_RCA
+#                    0, A=0000, B=1111, S=1111, Cout=0
+#                   15, A=1111, B=1111, S=1110, Cout=1
+#                   30, A=1010, B=1111, S=1001, Cout=1
+# End time: 05:28:33 on Nov 04,2023, Elapsed time: 0:01:35
+# Errors: 0, Warnings: 0
+#  Trace back: can't read "tbX(tbf25)": no such element in array
+#     while executing
+# "lappend orderx($tbX($tb)) $tb"
+#     (object "::.dockbar" method "::mtiwidgets::Dockbar::redoPack" body line 34)
+#     invoked from within
+# "redoPack again"
+#     ("eval" body line 1)
+#     invoked from within
+# "eval $args"
+#     (object "::.dockbar" method "::mtiwidgets::Dockbar::_delayedEval" body line 3)
+#     invoked from within
+# "::.dockbar _delayedEval redoPack again"
+#     (in namespace inscope "::mtiwidgets::Dockbar" script line 1)
+#     invoked from within
+# "namespace inscope ::mtiwidgets::Dockbar ::.dockbar _delayedEval redoPack again"
+#     ("after" script)
+#    <2:H:/liberosoftware/ModelSimPro/win32acoem/tk8.6/bgerror.tcl:106: ::tkerror {can't read "tbX(tbf25)": no such element in array}
+#    <1:eval:1: ::tk::dialog::error::bgerror {can't read "tbX(tbf25)": no such element in array}

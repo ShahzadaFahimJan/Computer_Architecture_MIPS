@@ -1,0 +1,8 @@
+{H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab9/task2/SR_FlipFlop.v} {1 {vlog -work work -stats=none {H:/faheeem jan/5TH SEMESTER/COA_LAB_FALL23/lab9/task2/SR_FlipFlop.v}
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module SR_flipflop_4nand
+
+Top level modules:
+	SR_flipflop_4nand
+
+} {} {}}
