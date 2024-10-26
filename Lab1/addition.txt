@@ -1,0 +1,45 @@
+.data
+    prompt1: .asciiz "Enter first number: "
+    prompt2: .asciiz "Enter second number: "
+    result_prompt: .asciiz "The result is: "
+
+.text
+.globl main
+
+main:
+    # Print prompt for first number
+    li $v0, 4           # system call for print_str
+    la $a0, prompt1     # load address of prompt1 into $a0
+    syscall
+
+    # Read first number from user
+    li $v0, 5           # system call for read_int
+    syscall
+    move $t0, $v0       # store first number in $t0
+
+    # Print prompt for second number
+    li $v0, 4           # system call for print_str
+    la $a0, prompt2     # load address of prompt2 into $a0
+    syscall
+
+    # Read second number from user
+    li $v0, 5           # system call for read_int
+    syscall
+    move $t1, $v0       # store second number in $t1
+
+    # Add the numbers
+    add $t2, $t0, $t1   # $t2 = $t0 + $t1
+
+    # Print the result
+    li $v0, 4           # system call for print_str
+    la $a0, result_prompt   # load address of result_prompt into $a0
+    syscall
+
+    # Print the result number
+    li $v0, 1           # system call for print_int
+    move $a0, $t2       # load $t2 (result) into $a0
+    syscall
+
+    # Exit the program
+    li $v0, 10          # system call for exit
+    syscall

@@ -1,0 +1,54 @@
+.data
+    prompt1: .asciiz "Enter first number: "
+    prompt2: .asciiz "Enter second number: "
+    result_high_prompt: .asciiz "High part of the result: "
+    result_low_prompt: .asciiz "Low part of the result: "
+
+.text
+.globl main
+
+main:
+    # Print prompt for first number
+    li $v0, 4           # system call for print_str
+    la $a0, prompt1     # load address of prompt1 into $a0
+    syscall
+
+    # Read first number from user
+    li $v0, 5           # system call for read_int
+    syscall
+    move $t0, $v0       # store first number in $t0
+
+    # Print prompt for second number
+    li $v0, 4           # system call for print_str
+    la $a0, prompt2     # load address of prompt2 into $a0
+    syscall
+
+    # Read second number from user
+    li $v0, 5           # system call for read_int
+    syscall
+    move $t1, $v0       # store second number in $t1
+
+    # Multiply the numbers
+    mult $t0, $t1       # multiply $t0 and $t1
+    mfhi $t2            # move high part of result to $t2
+    mflo $t3            # move low part of result to $t3
+
+    # Print high part of the result
+    li $v0, 4           # system call for print_str
+    la $a0, result_high_prompt   # load address of result_high_prompt into $a0
+    syscall
+    li $v0, 1           # system call for print_int
+    move $a0, $t2       # load $t2 (high part) into $a0
+    syscall
+
+    # Print low part of the result
+    li $v0, 4           # system call for print_str
+    la $a0, result_low_prompt    # load address of result_low_prompt into $a0
+    syscall
+    li $v0, 1           # system call for print_int
+    move $a0, $t3       # load $t3 (low part) into $a0
+    syscall
+
+    # Exit the program
+    li $v0, 10          # system call for exit
+    syscall
