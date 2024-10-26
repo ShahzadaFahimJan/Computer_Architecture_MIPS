@@ -1,0 +1,47 @@
+.data
+    prompt: .asciiz "Enter a number: "
+    result_msg: .asciiz "Multiplication Table: "
+
+.text
+.globl main
+
+main:
+    # Print the prompt to enter a number
+    li $v0, 4           # System call for print_str (code 4)
+    la $a0, prompt      # Load address of the prompt string into $a0
+    syscall             # Make the system call
+
+    # Read an integer from the user
+    li $v0, 5           # System call for read_int (code 5)
+    syscall             # Make the system call
+    move $t0, $v0       # Move user input to $t0
+
+    # Print the result message
+    li $v0, 4           # System call for print_str (code 4)
+    la $a0, result_msg  # Load address of the result message into $a0
+    syscall             # Make the system call
+
+    # Compute and print the multiplication table
+    li $t1, 1           # Initialize loop counter to 1
+
+loop:
+    # Calculate and print the table entry: t0 * t1
+    mul $t2, $t0, $t1   # Calculate t0 * t1
+    move $a0, $t2       # Move the result to $a0
+    li $v0, 1           # System call for print_int (code 1)
+    syscall             # Make the system call
+
+    # Print a space between numbers
+    li $v0, 4           # System call for print_str (code 4)
+    la $a0, " "         # Load address of space character into $a0
+    syscall             # Make the system call
+
+    # Increment loop counter
+    addi $t1, $t1, 1
+
+    # Check if the loop counter is less than or equal to 10
+    blez $t1, loop      # Branch back to the loop if t1 <= 10
+
+    # Exit program
+    li $v0, 10          # System call for exit (code 10)
+    syscall             # Make the system call

@@ -1,0 +1,13 @@
+.data
+num: .word 30
+
+.text
+.globl main
+
+main:
+    lw $t0, num           # Load value from memory into $t0
+    sll $t0, $t0, 1       # Double the value by shifting left by 1 bit
+    sw $t0, num           # Store the result back into memory
+    # Exit program
+    li $v0, 10
+    syscall

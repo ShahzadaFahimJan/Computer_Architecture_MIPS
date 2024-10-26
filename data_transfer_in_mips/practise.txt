@@ -1,0 +1,13 @@
+.text
+.data
+num: .word 10
+.globl main
+main:
+lw $t0,num
+addi $t0,$t0,10
+li $v0,1
+move $a0,$t0
+syscall 
+li $v0,10
+syscall
+

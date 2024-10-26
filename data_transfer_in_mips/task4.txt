@@ -1,0 +1,67 @@
+.data
+    num_terms: .word 10    # Number of terms in the Fibonacci series
+    fib_series: .space 40   # Space to store the Fibonacci series
+
+.text
+.globl main
+
+main:
+    # Load the number of terms into register $t0
+    lw $t0, num_terms
+
+    # Initialize the first two Fibonacci numbers
+    li $t1, 0   # First Fibonacci number
+    li $t2, 1   # Second Fibonacci number
+
+    # Store the first two Fibonacci numbers in the series
+    sw $t1, fib_series  # Store the first Fibonacci number
+    sw $t2, 4(fib_series)  # Store the second Fibonacci number
+
+    # Loop to generate the rest of the Fibonacci series
+    loop:
+        # Compute the next Fibonacci number: t3 = t1 + t2
+        add $t3, $t1, $t2
+
+        # Store the next Fibonacci number in the series
+        addi $t4, $t0, -1   # Decrement the number of terms remaining
+        mul $t5, $t4, 4     # Multiply the remaining terms by 4 (each term is 4 bytes)
+        add $t6, $t5, $t7   # Calculate the offset in the series array
+        sw $t3, 0($t6)      # Store the next Fibonacci number
+
+        # Update t1 and t2 for the next iteration
+        move $t1, $t2        # t1 = t2
+        move $t2, $t3        # t2 = t3
+
+        # Decrement the number of terms remaining
+        sub $t0, $t0, 1
+
+        # Check if there are more terms to generate
+        bnez $t0, loop  # Branch back to the loop if there are more terms
+
+    # Print the Fibonacci series
+    li $t0, 0          # Initialize loop counter to 0
+    print_loop:
+        bge $t0, $t5, end_print_loop  # Exit loop if end of series is reached
+
+        # Load next Fibonacci number to print
+        mul $t6, $t0, 4    # Calculate offset in the series array
+        lw $a0, fib_series($t6)  # Load the Fibonacci number to print
+        li $v0, 1           # System call for print_int (code 1)
+        syscall             # Make the system call
+
+        # Print a space between numbers
+        li $v0, 4           # System call for print_str (code 4)
+        la $a0, " "         # Load address of space character into $a0
+        syscall             # Make the system call
+
+        # Increment loop counter
+        addi $t0, $t0, 1
+
+        # Continue the loop
+        j print_loop
+
+    end_print_loop:
+
+    # Exit program
+    li $v0, 10           # System call for exit (code 10)
+    syscall              # Make the system call

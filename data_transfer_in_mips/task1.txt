@@ -1,0 +1,21 @@
+.data
+num: .word 50
+result_msg: "Result is\n" 
+.text
+.globl main
+
+main:
+    lw $t0, num           # Load value from memory into $t0
+    li $t1, 10            # Load immediate value 10 into $t1
+    add $t0, $t0, $t1     # Add 10 to the loaded value
+    sw $t0, num           # Store the result back into memory
+    li $v0, 4                    # System call for print_str (code 4)
+    la $a0, result_msg           # Load the address of the result     message into $a0
+    syscall                      # Make the system call
+
+    li $v0, 1                    # System call for print_int (code 1)
+    move $a0, $t0                # Move the result value from $t0 to$a0
+    syscall  
+    
+    li $v0, 10
+    syscall
